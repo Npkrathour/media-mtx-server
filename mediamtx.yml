@@ -1,0 +1,10 @@
+logLevel: info
+
+rtmp: true
+rtmpAddress: :1935
+
+webrtc: true
+webrtcAddress: :8889
+
+paths:
+ all:
